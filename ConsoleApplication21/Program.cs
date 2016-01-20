@@ -17,4 +17,9 @@ namespace ConsoleApplication21
         public int Id { get; set; }
         public string Name { get; set; }
     }
+    public class Information
+    {
+        public int Id { get; set; }
+        public string Mocka { get; set; }
+    }
 }
