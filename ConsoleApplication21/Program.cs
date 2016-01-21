@@ -22,4 +22,10 @@ namespace ConsoleApplication21
         public int Id { get; set; }
         public string Mocka { get; set; }
     }
+    public class Player
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
 }
